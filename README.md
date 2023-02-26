@@ -1,5 +1,5 @@
 # Adventure-Game-Python
-To run Best_adventure_version.py open a console, navigate to the directory where adventure_game.py was saved and type "python3 Best_adventure_version.py".
+To run this game open a console, navigate to the directory where Best_adventure_version.py.py was saved and type "python3 Best_adventure_version.py".
 
 Udacity instructions:
 
